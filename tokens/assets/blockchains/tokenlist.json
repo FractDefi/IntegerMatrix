@@ -13,6 +13,30 @@
     ],
     "tokens": [
       {
+        "name": "INT MATRIX",
+        "symbol": "MTRX",
+        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0xf0b9e9851b4bfc14e3f4176fc2d2e6cfdbcf57c1/logo.png",
+        "chainId": 8453,
+        "address": "0xf0b9e9851b4bfc14e3f4176fc2d2e6cfdbcf57c1",
+        "decimals": 18
+      },
+      {
+        "name": "Wrapped Integer",
+        "symbol": "WINT",
+        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x2d6d67c6977092f62a7dd7bf4fc7556802997b1b/logo.png",
+        "chainId": 8453,
+        "address": "0x2d6d67c6977092f62a7dd7bf4fc7556802997b1b",
+        "decimals": 18
+      },
+      {
+        "name": "NewThrone",
+        "symbol": "THRO",
+        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x0f929c29dce303f96b1d4104505f2e60ee795cac/logo.png",
+        "chainId": 8453,
+        "address": "0x0f929c29dce303f96b1d4104505f2e60ee795cac",
+        "decimals": 18
+      },
+      {
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/logo.png",
@@ -29,27 +53,11 @@
         "decimals": 6
       },
       {
-        "name": "Axelar Wrapped USDC",
-        "symbol": "axlUSDC",
-        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0xeb466342c4d449bc9f53a865d5cb90586f405215/logo.png",
-        "chainId": 8453,
-        "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
-        "decimals": 6
-      },
-      {
         "name": "USD Base Coin",
         "symbol": "USDbC",
         "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca/logo.png",
         "chainId": 8453,
         "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
-        "decimals": 6
-      },
-      {
-        "name": "Axelar Wrapped USDT",
-        "symbol": "axlUSDT",
-        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6/logo.png",
-        "chainId": 8453,
-        "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
         "decimals": 6
       },
       {
@@ -59,14 +67,6 @@
         "chainId": 8453,
         "address": "0x4200000000000000000000000000000000000006",
         "decimals": 18
-      },
-      {
-        "name": "Coinbase Wrapped Staked ETH",
-        "symbol": "cbETH",
-        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22/logo.png",
-        "chainId": 8453,
-        "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
-        "decimals": 18
       }
     ]
-}
+  }
