@@ -37,6 +37,14 @@
         "decimals": 18
       },
       {
+        "name": "The Void",
+        "symbol": "VOID",
+        "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc/logo.png",
+        "chainId": 8453,
+        "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
+        "decimals": 18
+      },
+      {
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "logoURI": "https://raw.githubusercontent.com/FractDefi/integer-matrix/main/tokens/assets/blockchains/base/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/logo.png",
